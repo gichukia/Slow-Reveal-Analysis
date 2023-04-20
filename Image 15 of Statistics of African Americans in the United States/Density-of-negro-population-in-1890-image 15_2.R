@@ -1,4 +1,11 @@
+# DESCRIPTION
+# Density of the Negro Population in 1890
+
 # https://www.loc.gov/resource/rbaapc.10601/?sp=15
+
+# AUTHOR: 
+# Alex Gichuki
+
 # setup
 library(maps)
 library(mapdata)
