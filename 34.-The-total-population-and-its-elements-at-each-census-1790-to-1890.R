@@ -2,7 +2,6 @@
 # 34. The total population and its elements at each census: 1790 to 1890
 # https://www.loc.gov/resource/g3701gm.gct00010/?sp=32&r=-0.224,0.078,0.91,0.429,0
 
-34.-The-total-population-and-its-elements-at-each-census-1790-to-1890
 # AUTHOR: 
 # Alex Gichuki
 
