@@ -1,3 +1,11 @@
+# DESCRIPTION
+# Approximate time frame of domestication based on archeology
+
+# A RequestFrom Slow Reveal Workshop
+
+# AUTHOR: 
+# Alex Gichuki
+
 # Setup
 library(ggplot2)
 library(tidyverse)
