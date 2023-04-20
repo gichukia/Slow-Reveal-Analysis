@@ -1,4 +1,9 @@
+# DESCRIPTION
+# Increase or Decrease of the rural population
 # https://www.loc.gov/resource/g3701gm.gct00010/?sp=22&r=-0.182,0.083,1.465,0.589,0
+
+# AUTHOR: 
+# Alex Gichuki
 
 # Setup
 library(usmap)
